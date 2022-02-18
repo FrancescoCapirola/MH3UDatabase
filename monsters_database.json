@@ -1,0 +1,71 @@
+[{
+	"name": "Agnaktor",
+    "icon": "assets/icons/icon_agnaktor.png",
+	"pashes": [{
+		"name": "Hard Lava",
+		"weaknesses": [{
+			"name": "water",
+			"icon": "assets/elements/element_water.png"
+		},
+		{
+			"name": "ice",
+			"icon": "assets/elements/element_ice.png"
+		},
+		{
+			"name": "poison",
+			"icon": "assets/statuses/status_poison.png"
+		}],
+		"items": [{
+			"name": "pitfall",
+			"icon": "assets/items/item_pitfall_trap.png"
+		},
+		{
+			"name": "shock",
+			"icon": "assets/items/item_shock_trap.png"
+		},
+		{
+			"name": "sonic",
+			"icon": "assets/items/item_sonic_bomb.png"
+		},
+		{
+			"name": "flash",
+			"icon": "assets/items/item_flash_bomb.png"
+		}]
+	},
+	{
+		"name": "No Lava",
+		"weaknesses": [{
+			"name": "water",
+			"icon": "assets/elements/element_water.png"
+		},
+		{
+			"name": "dragon",
+			"icon": "assets/elements/element_dragon.png"
+		},
+		{
+			"name": "poison",
+			"icon": "assets/statuses/status_poison.png"
+		}],
+		"items": [{
+			"name": "pitfall",
+			"icon": "assets/items/item_pitfall_trap.png"
+		},
+		{
+			"name": "shock",
+			"icon": "assets/items/item_shock_trap.png"
+		},
+		{
+			"name": "sonic",
+			"icon": "assets/items/item_sonic_bomb.png"
+		},
+		{
+			"name": "flash",
+			"icon": "assets/items/item_flash_bomb.png"
+		}]
+	}],
+	"ailments": ["Small Roar", "Tremor", "Fireblight"],
+	"habitats": [{
+			"name": "Volcano",
+			"icon": "assets/maps/map_volcano.png"
+		}]
+}]
