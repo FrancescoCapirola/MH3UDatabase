@@ -1,7 +1,7 @@
 [{
 	"name": "Agnaktor",
     "icon": "assets/icons/icon_agnaktor.png",
-	"pashes": [{
+	"phases": [{
 		"name": "Hard Lava",
 		"weaknesses": [{
 			"name": "water",
