@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Agnaktor",
+        "icon": "assets/icons/icon_agnaktor.png",
+        "type": "boss"
+    },
+    {
+        "name": "Nibelsnarf", 
+        "icon": "assets/icons/icon_nibelsnarf.png",
+        "type": "boss"
+    },
+    {
+        "name": "Nargacuga", 
+        "icon": "assets/icons/icon_nargacuga.png",
+        "type": "boss"
+    },
+    {
+        "name": "Jhen Mohran", 
+        "icon": "assets/icons/icon_jhen_mohran.png",
+        "type": "boss"
+    },
+    {
+        "name": "Lagiacrus",
+        "icon": "assets/icons/icon_lagiacrus.png",
+        "type": "boss"
+    },
+    {
+        "name": "Brachydios",
+        "icon": "assets/icons/icon_brachydios.png",
+        "type": "boss"
+    },
+    {
+        "name": "Barioth", 
+        "icon": "assets/icons/icon_barioth.png",
+        "type": "boss"
+    },
+    {
+        "name": "Arzuros",
+        "icon": "assets/icons/icon_arzuros.png",
+        "type": "boss"
+    },
+    {
+        "name": "Ceadeus",
+        "icon": "assets/icons/icon_ceadeus.png",
+        "type": "boss"
+    },
+    {
+      "name": "Silver Rathalos",
+      "icon": "assets/icons/icon_silver_rathalos.png",
+      "type": "boss"
+    }
+]
